@@ -1,0 +1,25 @@
+#input
+    0 0
+    6
+    W 10
+    D 90
+    W 40
+    S 20
+    A 90
+    W 10
+#output
+    ubicación = 20 -20
+#endtest
+
+#input
+    10 10
+    5
+    W 100
+    D 45
+    S 50
+    D 30
+    W 90
+#output
+    ubicación = 97.9384 -41.578
+#endtest
+

@@ -1,0 +1,13 @@
+#input
+    pedro
+    sanchez
+    los águilas 123
+    4
+    11 10 20 F
+    22 20 30 T
+    33 30 40 T
+    44 20 30 F
+#output
+    id: 22 posición: 20, 30 usuario: sanchez, pedro
+    id: 33 posición: 30, 40 usuario: sanchez, pedro
+#endtest

@@ -1,0 +1,21 @@
+#input
+    5 4
+    ABC123
+    2
+    3 A
+    2 C
+    1 A
+#output
+    Asiento disponible
+#endtest
+
+#input
+    5 4
+    ABC205
+    2
+    3 A
+    2 C
+    3 A
+#output
+    Asiento no disponible
+#endtest

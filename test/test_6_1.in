@@ -1,0 +1,15 @@
+#input
+    C
+    2 2
+    3 3
+#output
+    Destino invalido
+#endtest
+
+#input
+    A
+    2 2
+    6 6
+#output
+    Destino valido
+#endtest

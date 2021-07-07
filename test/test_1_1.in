@@ -1,0 +1,29 @@
+#input
+    4
+    Calle A 130
+    10 20
+    Calle B 210
+    20 30
+    Calle C 404
+    30 50
+    Calle D 111
+    11 15
+    1 1
+#output
+    dirección = Calle D 111
+    distancia = 17.2047
+#endtest
+
+#input
+    3
+    Calle Ingenieros 111
+    10 2
+    Calle Medicos 222
+    2 13
+    Calle Abogados 333
+    31 35
+    2 2
+#output
+    dirección = Calle Ingenieros 111
+    distancia = 8
+#endtest
