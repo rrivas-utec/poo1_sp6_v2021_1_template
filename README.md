@@ -1,4 +1,4 @@
-# Task #7: Clases, Objetos y Relaciones entre clases  
+# Task #6: Clases, Objetos y Relaciones entre clases  
 **course:** Programación Orientada a Objetos I  
 **unit:** Unidad 6  
 **cmake project:** poo1_sp7_v2021_1  
