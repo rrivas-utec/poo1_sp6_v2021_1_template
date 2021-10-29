@@ -1,7 +1,7 @@
 # Task #6: Clases, Objetos y Relaciones entre clases  
 **course:** Programación Orientada a Objetos I  
 **unit:** Unidad 6  
-**cmake project:** poo1_sp7_v2021_1  
+**cmake project:** poo1_sp6_v2021_1  
 ## Instructions
 
 Cada pregunta deberá ser respondida en un archivo fuente (`.cpp`) y un archivo cabecera (`.h`) con el número de la pregunta:  
