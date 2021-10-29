@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10.2)
-project(poo1_sp7_v2021_1)
+project(poo1_sp6_v2021_1)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/${OUTPUT_DEBUG})
@@ -19,7 +19,7 @@ file(GLOB source_files
         src/*.cpp
         test/*.cpp)
 
-add_executable(poo1_sp7_v2021_1  ${source_files})
+add_executable(poo1_sp6_v2021_1  ${source_files})
 
 file(GLOB test_files test/*.in )
 file(COPY ${test_files} DESTINATION ${CMAKE_RUNTIME_OUTPUT_DIRECTORY})
